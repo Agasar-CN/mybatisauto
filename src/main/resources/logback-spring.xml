@@ -42,7 +42,7 @@
             <level>ERROR</level>
         </filter>
         <!--滚动策略-->
-        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
             <!--添加路径-->
             <fileNamePattern>${LOG_HOME}/${APP_NAME}/ERROR/%d{yyyy-MM-dd}.%i.log</fileNamePattern>
             <MaxHistory>10</MaxHistory>

@@ -1,0 +1,243 @@
+2019-04-10 17:26:27 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Starting MybatisautoApplication on MSI with PID 11672 (E:\Codes\IDEA\mybatisauto\target\classes started by Agasar in E:\Codes\IDEA\mybatisauto)
+2019-04-10 17:26:27 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - No active profile set, falling back to default profiles: default
+2019-04-10 17:26:28 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$128d677d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-10 17:26:28 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-04-10 17:26:28 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:26:28 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-04-10 17:26:28 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-10 17:26:29 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-04-10 17:26:29 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1507 ms
+2019-04-10 17:26:29 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-10 17:26:29 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-04-10 17:26:30 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-04-10 17:26:30 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:26:30 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-04-10 17:26:30 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Started MybatisautoApplication in 3.113 seconds (JVM running for 4.369)
+2019-04-10 17:26:31 [RMI TCP Connection(2)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-04-10 17:26:31 [RMI TCP Connection(1)-10.30.3.181] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-10 17:26:31 [RMI TCP Connection(1)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-04-10 17:26:31 [RMI TCP Connection(1)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-04-10 17:26:31 [RMI TCP Connection(2)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-04-10 17:33:44 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Starting MybatisautoApplication on MSI with PID 11248 (E:\Codes\IDEA\mybatisauto\target\classes started by Agasar in E:\Codes\IDEA\mybatisauto)
+2019-04-10 17:33:44 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - No active profile set, falling back to default profiles: default
+2019-04-10 17:33:45 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1bd3893c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-10 17:33:45 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-04-10 17:33:45 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:33:45 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-04-10 17:33:45 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-10 17:33:45 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-04-10 17:33:45 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1584 ms
+2019-04-10 17:33:46 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-10 17:33:46 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-04-10 17:33:46 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-04-10 17:33:46 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:33:46 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-04-10 17:33:46 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Started MybatisautoApplication in 3.255 seconds (JVM running for 4.313)
+2019-04-10 17:33:47 [RMI TCP Connection(1)-10.30.3.181] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-10 17:33:47 [RMI TCP Connection(1)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-04-10 17:33:47 [RMI TCP Connection(1)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-04-10 17:33:48 [RMI TCP Connection(3)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-04-10 17:33:48 [RMI TCP Connection(3)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-04-10 17:35:21 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Starting MybatisautoApplication on MSI with PID 2760 (E:\Codes\IDEA\mybatisauto\target\classes started by Agasar in E:\Codes\IDEA\mybatisauto)
+2019-04-10 17:35:21 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - No active profile set, falling back to default profiles: default
+2019-04-10 17:35:22 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ab67533a] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-10 17:35:22 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-04-10 17:35:22 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:35:22 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-04-10 17:35:22 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-10 17:35:22 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-04-10 17:35:22 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1633 ms
+2019-04-10 17:35:23 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-10 17:35:23 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-04-10 17:35:23 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-04-10 17:35:24 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:35:24 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-04-10 17:35:24 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Started MybatisautoApplication in 3.226 seconds (JVM running for 4.271)
+2019-04-10 17:35:24 [RMI TCP Connection(2)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-04-10 17:35:24 [RMI TCP Connection(1)-10.30.3.181] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-10 17:35:24 [RMI TCP Connection(1)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-04-10 17:35:24 [RMI TCP Connection(1)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-04-10 17:35:24 [RMI TCP Connection(2)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-04-10 17:35:58 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Starting MybatisautoApplication on MSI with PID 15424 (E:\Codes\IDEA\mybatisauto\target\classes started by Agasar in E:\Codes\IDEA\mybatisauto)
+2019-04-10 17:35:58 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - No active profile set, falling back to default profiles: default
+2019-04-10 17:35:59 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$cae1f1d8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-10 17:35:59 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-04-10 17:35:59 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:35:59 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-04-10 17:35:59 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-10 17:35:59 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-04-10 17:35:59 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1621 ms
+2019-04-10 17:36:00 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-10 17:36:00 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-04-10 17:36:00 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-04-10 17:36:00 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:36:00 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-04-10 17:36:00 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Started MybatisautoApplication in 3.245 seconds (JVM running for 4.276)
+2019-04-10 17:36:01 [RMI TCP Connection(1)-10.30.3.181] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-10 17:36:01 [RMI TCP Connection(1)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-04-10 17:36:01 [RMI TCP Connection(1)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-04-10 17:36:02 [RMI TCP Connection(3)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-04-10 17:36:02 [RMI TCP Connection(3)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-04-10 17:38:17 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Starting MybatisautoApplication on MSI with PID 1448 (E:\Codes\IDEA\mybatisauto\target\classes started by Agasar in E:\Codes\IDEA\mybatisauto)
+2019-04-10 17:38:17 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - No active profile set, falling back to default profiles: default
+2019-04-10 17:38:18 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ce1cb9d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-10 17:38:18 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-04-10 17:38:18 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:38:18 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-04-10 17:38:18 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-10 17:38:18 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-04-10 17:38:18 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1465 ms
+2019-04-10 17:38:19 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-10 17:38:19 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-04-10 17:38:19 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-04-10 17:38:19 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:38:19 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-04-10 17:38:19 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Started MybatisautoApplication in 3.205 seconds (JVM running for 4.319)
+2019-04-10 17:38:20 [RMI TCP Connection(1)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-04-10 17:38:20 [RMI TCP Connection(2)-10.30.3.181] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-10 17:38:20 [RMI TCP Connection(2)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-04-10 17:38:20 [RMI TCP Connection(2)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-04-10 17:38:20 [RMI TCP Connection(1)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-04-10 17:40:03 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Starting MybatisautoApplication on MSI with PID 16536 (E:\Codes\IDEA\mybatisauto\target\classes started by Agasar in E:\Codes\IDEA\mybatisauto)
+2019-04-10 17:40:03 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - No active profile set, falling back to default profiles: default
+2019-04-10 17:40:05 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8e0a3b90] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-10 17:40:05 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-04-10 17:40:05 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:40:05 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-04-10 17:40:05 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-10 17:40:05 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-04-10 17:40:05 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1514 ms
+2019-04-10 17:40:06 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-10 17:40:06 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-04-10 17:40:06 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-04-10 17:40:06 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:40:06 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-04-10 17:40:06 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Started MybatisautoApplication in 3.248 seconds (JVM running for 4.604)
+2019-04-10 17:40:07 [RMI TCP Connection(2)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-04-10 17:40:07 [RMI TCP Connection(3)-10.30.3.181] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-10 17:40:07 [RMI TCP Connection(3)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-04-10 17:40:07 [RMI TCP Connection(3)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2019-04-10 17:40:07 [RMI TCP Connection(2)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-04-10 17:41:19 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Starting MybatisautoApplication on MSI with PID 6904 (E:\Codes\IDEA\mybatisauto\target\classes started by Agasar in E:\Codes\IDEA\mybatisauto)
+2019-04-10 17:41:19 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - No active profile set, falling back to default profiles: default
+2019-04-10 17:41:21 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$4e4f0329] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-10 17:41:21 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-04-10 17:41:21 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:41:21 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-04-10 17:41:21 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-10 17:41:21 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-04-10 17:41:21 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1875 ms
+2019-04-10 17:41:22 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-10 17:41:22 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-04-10 17:41:22 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 0 endpoint(s) beneath base path '/actuator'
+2019-04-10 17:41:22 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:41:22 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-04-10 17:41:22 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Started MybatisautoApplication in 3.632 seconds (JVM running for 4.774)
+2019-04-10 17:41:23 [RMI TCP Connection(4)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-04-10 17:41:23 [RMI TCP Connection(3)-10.30.3.181] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-10 17:41:23 [RMI TCP Connection(3)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-04-10 17:41:23 [RMI TCP Connection(3)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2019-04-10 17:41:23 [RMI TCP Connection(4)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-04-10 17:42:25 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Starting MybatisautoApplication on MSI with PID 5888 (E:\Codes\IDEA\mybatisauto\target\classes started by Agasar in E:\Codes\IDEA\mybatisauto)
+2019-04-10 17:42:25 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - No active profile set, falling back to default profiles: default
+2019-04-10 17:42:26 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$65e536b6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-10 17:42:26 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-04-10 17:42:26 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:42:26 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-04-10 17:42:26 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-10 17:42:26 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-04-10 17:42:26 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1666 ms
+2019-04-10 17:42:27 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-10 17:42:27 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-04-10 17:42:27 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 0 endpoint(s) beneath base path '/actuator'
+2019-04-10 17:42:27 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:42:27 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-04-10 17:42:27 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Started MybatisautoApplication in 3.284 seconds (JVM running for 4.271)
+2019-04-10 17:42:28 [RMI TCP Connection(3)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-04-10 17:42:28 [RMI TCP Connection(2)-10.30.3.181] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-10 17:42:28 [RMI TCP Connection(2)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-04-10 17:42:28 [RMI TCP Connection(2)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-04-10 17:42:29 [RMI TCP Connection(3)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-04-10 17:49:37 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Starting MybatisautoApplication on MSI with PID 12484 (E:\Codes\IDEA\mybatisauto\target\classes started by Agasar in E:\Codes\IDEA\mybatisauto)
+2019-04-10 17:49:37 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - No active profile set, falling back to default profiles: default
+2019-04-10 17:49:38 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$26cbf4e5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-10 17:49:39 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-04-10 17:49:39 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:49:39 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-04-10 17:49:39 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-10 17:49:39 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-04-10 17:49:39 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1499 ms
+2019-04-10 17:49:39 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-10 17:49:39 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-04-10 17:49:40 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+2019-04-10 17:49:40 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-04-10 17:49:40 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-04-10 17:49:40 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Started MybatisautoApplication in 3.124 seconds (JVM running for 4.181)
+2019-04-10 17:49:40 [RMI TCP Connection(1)-10.30.3.181] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-10 17:49:40 [RMI TCP Connection(1)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-04-10 17:49:40 [RMI TCP Connection(1)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-04-10 17:49:41 [RMI TCP Connection(3)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-04-10 17:49:41 [RMI TCP Connection(3)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-04-10 17:50:32 [Thread-18] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-10 17:50:32 [Thread-18] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2019-04-10 17:50:32 [Thread-18] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2019-04-10 19:10:25 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Starting MybatisautoApplication on MSI with PID 4772 (E:\Codes\IDEA\mybatisauto\target\classes started by Agasar in E:\Codes\IDEA\mybatisauto)
+2019-04-10 19:10:25 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - No active profile set, falling back to default profiles: default
+2019-04-10 19:10:26 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9b55a609] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-10 19:10:26 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-04-10 19:10:26 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-04-10 19:10:26 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-04-10 19:10:26 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-10 19:10:26 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-04-10 19:10:26 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1326 ms
+2019-04-10 19:10:27 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-10 19:10:27 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-04-10 19:10:27 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+2019-04-10 19:10:27 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-04-10 19:10:27 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-04-10 19:10:27 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Started MybatisautoApplication in 2.795 seconds (JVM running for 3.791)
+2019-04-10 19:10:28 [RMI TCP Connection(1)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-04-10 19:10:28 [RMI TCP Connection(2)-10.30.3.181] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-10 19:10:28 [RMI TCP Connection(2)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-04-10 19:10:28 [RMI TCP Connection(2)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2019-04-10 19:10:28 [RMI TCP Connection(1)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-04-10 19:12:23 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Starting MybatisautoApplication on MSI with PID 4816 (E:\Codes\IDEA\mybatisauto\target\classes started by Agasar in E:\Codes\IDEA\mybatisauto)
+2019-04-10 19:12:23 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - No active profile set, falling back to default profiles: default
+2019-04-10 19:12:24 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$acf1d187] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-10 19:12:25 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-04-10 19:12:25 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-04-10 19:12:25 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-04-10 19:12:25 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-10 19:12:25 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-04-10 19:12:25 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1393 ms
+2019-04-10 19:12:25 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-10 19:12:25 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-04-10 19:12:26 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/point'
+2019-04-10 19:12:26 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-04-10 19:12:26 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-04-10 19:12:26 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Started MybatisautoApplication in 2.817 seconds (JVM running for 3.762)
+2019-04-10 19:12:26 [RMI TCP Connection(1)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-04-10 19:12:26 [RMI TCP Connection(2)-10.30.3.181] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-10 19:12:26 [RMI TCP Connection(2)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-04-10 19:12:26 [RMI TCP Connection(2)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2019-04-10 19:12:26 [RMI TCP Connection(1)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2019-04-10 19:16:19 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Starting MybatisautoApplication on MSI with PID 1164 (E:\Codes\IDEA\mybatisauto\target\classes started by Agasar in E:\Codes\IDEA\mybatisauto)
+2019-04-10 19:16:19 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - No active profile set, falling back to default profiles: default
+2019-04-10 19:16:20 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8e0a3b90] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-10 19:16:20 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2019-04-10 19:16:20 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2019-04-10 19:16:20 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-04-10 19:16:20 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-10 19:16:21 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-04-10 19:16:21 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1580 ms
+2019-04-10 19:16:21 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-10 19:16:21 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2019-04-10 19:16:22 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 16 endpoint(s) beneath base path '/actuator'
+2019-04-10 19:16:22 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2019-04-10 19:16:22 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path ''
+2019-04-10 19:16:22 [main] INFO  top.agasar.mybatisauto.MybatisautoApplication - Started MybatisautoApplication in 3.21 seconds (JVM running for 4.291)
+2019-04-10 19:16:23 [RMI TCP Connection(3)-10.30.3.181] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-04-10 19:16:23 [RMI TCP Connection(3)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-04-10 19:16:23 [RMI TCP Connection(2)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2019-04-10 19:16:23 [RMI TCP Connection(3)-10.30.3.181] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 8 ms
+2019-04-10 19:16:23 [RMI TCP Connection(2)-10.30.3.181] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
